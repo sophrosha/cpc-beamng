@@ -1,4 +1,5 @@
 ### CPC (Cam Position Changer)
+<img width="913" height="100" alt="ai_warn" src="https://github.com/user-attachments/assets/f5110056-367a-4461-9219-68d8b3b8bc38" />
 
 #### Описание
 Изменение положение камеры водителя в разные стороны, оставляя прикрепленной при этом машину к камере.
@@ -10,7 +11,7 @@
 В Releases доступен архив мода, необходимо его положить в папку с модами игры.
 
 #### Пример работы
-video_add_soon
+https://github.com/user-attachments/assets/033afe6e-5b21-4119-85f5-ad135f59593b
 
 #### Документация
 Скоро
