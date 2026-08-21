@@ -1,0 +1,15 @@
+{
+  "bindings": [
+    { "control": "v", "action": "cpc_toggle" },
+    { "control": "shift left", "action": "cpc_pos_y_minus" },
+    { "control": "shift right", "action": "cpc_pos_y_plus" },
+    { "control": "shift up", "action": "cpc_pos_z_plus" },
+    { "control": "shift down", "action": "cpc_pos_z_minus" },
+    { "control": "shift pageup", "action": "cpc_pos_x_plus" },
+    { "control": "shift pagedown", "action": "cpc_pos_x_minus" },
+    { "control": "shift home", "action": "cpc_reset_offset" }
+  ],
+  "removed": [
+    { "control": "v", "action": "activateStarterMotor" }
+  ]
+}

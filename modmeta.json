@@ -1,0 +1,9 @@
+{
+  "name": "Cam Position Changer",
+  "description": "Adjusting the driver's camera position in various directions while keeping the car attached to the camera.",
+  "version": "1.0.0",
+  "authors": [ "sophrosha" ],
+  "licence": "MIT",
+  "dependencies": [],
+  "tags": [ "camera", "gameplay" ]
+}

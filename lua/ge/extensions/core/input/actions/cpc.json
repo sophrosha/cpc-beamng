@@ -1,0 +1,66 @@
+{
+  "cpc_toggle": {
+    "cat": "gameplay",
+    "order": 600,
+    "ctx": "tlua",
+    "onDown": "if extensions.cpc_main then extensions.cpc_main.toggleLock(PLAYER) end",
+    "title": "CPC: toggle",
+    "desc": "Включить/выключить фиксацию камеры (V)"
+  },
+  "cpc_pos_x_plus": {
+    "cat": "gameplay",
+    "order": 601,
+    "ctx": "tlua",
+    "onDown": "if extensions.cpc_main then extensions.cpc_main.moveOffset(0.05, 0, 0) end",
+    "title": "CPC: сместить X+ (вперёд)",
+    "desc": "Сместить камеру вперёд по оси X"
+  },
+  "cpc_pos_x_minus": {
+    "cat": "gameplay",
+    "order": 602,
+    "ctx": "tlua",
+    "onDown": "if extensions.cpc_main then extensions.cpc_main.moveOffset(-0.05, 0, 0) end",
+    "title": "CPC: сместить X- (назад)",
+    "desc": "Сместить камеру назад по оси X"
+  },
+  "cpc_pos_y_plus": {
+    "cat": "gameplay",
+    "order": 603,
+    "ctx": "tlua",
+    "onDown": "if extensions.cpc_main then extensions.cpc_main.moveOffset(0, 0.05, 0) end",
+    "title": "CPC: сместить Y+ (вправо)",
+    "desc": "Сместить камеру вправо по оси Y"
+  },
+  "cpc_pos_y_minus": {
+    "cat": "gameplay",
+    "order": 604,
+    "ctx": "tlua",
+    "onDown": "if extensions.cpc_main then extensions.cpc_main.moveOffset(0, -0.05, 0) end",
+    "title": "CPC: сместить Y- (влево)",
+    "desc": "Сместить камеру влево по оси Y"
+  },
+  "cpc_pos_z_plus": {
+    "cat": "gameplay",
+    "order": 605,
+    "ctx": "tlua",
+    "onDown": "if extensions.cpc_main then extensions.cpc_main.moveOffset(0, 0, 0.05) end",
+    "title": "CPC: сместить Z+ (вверх)",
+    "desc": "Сместить камеру вверх по оси Z"
+  },
+  "cpc_pos_z_minus": {
+    "cat": "gameplay",
+    "order": 606,
+    "ctx": "tlua",
+    "onDown": "if extensions.cpc_main then extensions.cpc_main.moveOffset(0, 0, -0.05) end",
+    "title": "CPC: сместить Z- (вниз)",
+    "desc": "Сместить камеру вниз по оси Z"
+  },
+  "cpc_reset_offset": {
+    "cat": "gameplay",
+    "order": 607,
+    "ctx": "tlua",
+    "onDown": "if extensions.cpc_main then extensions.cpc_main.resetOffset() end",
+    "title": "CPC: сбросить смещение",
+    "desc": "Вернуть камеру в исходное положение"
+  }
+}
