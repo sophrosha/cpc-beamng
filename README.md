@@ -1,3 +1,5 @@
+[ENG](README_eng.md)
+
 ### CPC (Cam Position Changer)
 <img width="913" height="100" alt="ai_warn" src="https://github.com/user-attachments/assets/f5110056-367a-4461-9219-68d8b3b8bc38" />
 
