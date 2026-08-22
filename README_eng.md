@@ -14,8 +14,6 @@ The mod archive is available in the Releases section; place it in the game's mod
 #### example 
 https://github.com/user-attachments/assets/033afe6e-5b21-4119-85f5-ad135f59593b
 
-#### Docs
-Soon
 #### Tree
 ```
 .
