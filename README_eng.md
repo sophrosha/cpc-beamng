@@ -3,7 +3,7 @@ This mod was created using AI but has been tested and is in regular use.
 THE AUTHOR BEARS NO RESPONSIBILITY FOR ANY DAMAGES, ETC. INSTALL AT YOUR OWN RISK.
 
 #### Описание
-Adjusting the driver's camera position in various directions while keeping the car attached to the camera.
+Adjusting the driver's camera position using arrow binds without fly on relative camera.
 #### How to use
 - The camera must be in driver mode.
 - Press `V` to activate the mode.
